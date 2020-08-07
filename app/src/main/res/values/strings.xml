@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">JobSchedulerDemo</string>
+    <string name="notification_content_text">Your Job ran to completion!</string>
+    <string name="notification_title">Job Service</string>
+    <string name="network_label">"Network Type Required: "</string>
+    <string name="network_none">None</string>
+    <string name="network_any">Any</string>
+    <string name="network_wifi">Wifi</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_jobs">Cancel Jobs</string>
+    <string name="job_schedule_toast_message">Job Scheduled, job will run when the constraints are met.</string>
+    <string name="job_cancelled_toast_message">Jobs cancelled</string>
+    <string name="set_constraint">Please set at least one constraint</string>
+    <string name="requires">Requires:</string>
+    <string name="device_idle">Device Idle</string>
+    <string name="device_charging">Device Charging</string>
+    <string name="not_set">Not Set</string>
+    <string name="seek_bar_progress">%1$d s</string>
+</resources>
